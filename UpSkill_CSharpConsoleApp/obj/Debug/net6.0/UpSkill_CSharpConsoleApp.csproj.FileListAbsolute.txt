@@ -1,0 +1,15 @@
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\bin\Debug\net6.0\UpSkill_CSharpConsoleApp.exe
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\bin\Debug\net6.0\UpSkill_CSharpConsoleApp.deps.json
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\bin\Debug\net6.0\UpSkill_CSharpConsoleApp.runtimeconfig.json
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\bin\Debug\net6.0\UpSkill_CSharpConsoleApp.dll
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\bin\Debug\net6.0\UpSkill_CSharpConsoleApp.pdb
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\obj\Debug\net6.0\UpSkill_CSharpConsoleApp.csproj.AssemblyReference.cache
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\obj\Debug\net6.0\UpSkill_CSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\obj\Debug\net6.0\UpSkill_CSharpConsoleApp.AssemblyInfoInputs.cache
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\obj\Debug\net6.0\UpSkill_CSharpConsoleApp.AssemblyInfo.cs
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\obj\Debug\net6.0\UpSkill_CSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\obj\Debug\net6.0\UpSkill_CSharpConsoleApp.dll
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\obj\Debug\net6.0\refint\UpSkill_CSharpConsoleApp.dll
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\obj\Debug\net6.0\UpSkill_CSharpConsoleApp.pdb
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\obj\Debug\net6.0\UpSkill_CSharpConsoleApp.genruntimeconfig.cache
+C:\_Dev\_Sandbox\UpSkill_CSharpConsoleApp\UpSkill_CSharpConsoleApp\obj\Debug\net6.0\ref\UpSkill_CSharpConsoleApp.dll
