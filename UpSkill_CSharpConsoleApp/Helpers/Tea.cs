@@ -29,7 +29,7 @@ namespace UpSkill_CSharpConsoleApp.Helpers
 
             Task.Delay(2000).GetAwaiter().GetResult();
 
-            Console.WriteLine("Kettle finished boiling.");
+            Console.WriteLine("*Kettle finished boiling*");
 
             return "boiled water";
         }
@@ -58,7 +58,7 @@ namespace UpSkill_CSharpConsoleApp.Helpers
 
             await Task.Delay(2000);
 
-            Console.WriteLine("Kettle finished boiling.");
+            Console.WriteLine("*Kettle finished boiling*");
 
             return "boiled water";
         }
