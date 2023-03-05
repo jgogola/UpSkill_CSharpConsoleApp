@@ -1,5 +1,10 @@
-﻿using System.Runtime.CompilerServices;
+﻿using Microsoft.Extensions.Configuration;
+using System.ComponentModel;
+using System.Runtime.CompilerServices;
 using UpSkill_CSharpConsoleApp.Models;
+
+var builder = new ConfigurationBuilder().AddJsonFile("appsettings.json",optional: true, reloadOnChange:true); 
+var configuration = builder.Build();
 
 
 /* FlagsEnum Exmple */
@@ -20,9 +25,13 @@ if (book.AvailableFormats.HasFlag(Format.AudioBook))
 
 }
 
+
+
 Console.WriteLine("");
 Console.WriteLine("-------------------------------------------");
 Console.WriteLine("");
+
+/* Async/Await Example */
 
 Console.WriteLine("ASYNC/AWAIT EXAMPLE:");
 
@@ -35,3 +44,15 @@ Console.WriteLine("");
 Console.WriteLine("--Non-Blocking Example--");
 var teaAsync = new UpSkill_CSharpConsoleApp.Helpers.Tea();
 Console.WriteLine(await teaAsync.MakeTeaAsync());
+
+
+
+
+Console.WriteLine("");
+Console.WriteLine("-------------------------------------------");
+Console.WriteLine("");
+
+/* Configuration JSON Settings Example */
+
+Console.WriteLine($"Example Setting A: {configuration["ExampleSettings:SettingA"]}.");
+Console.WriteLine($"Example Setting B: {configuration["ExampleSettings:SettingB"]}.");
